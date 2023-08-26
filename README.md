@@ -22,14 +22,28 @@ Features-
 
 
 
-![ChatApp1](https://github.com/yashkhetade/ChatApp/assets/94381548/1f3e360d-97f6-4c1f-b86a-ca9c5d2e3e95)
-![Chatapp2](https://github.com/yashkhetade/ChatApp/assets/94381548/b01e188f-734e-4af1-b![1](https://github.com/yashkhetade/ChatApp/assets/94381548/78dff49e-c04d-46e7-a58d-353442c07b06)
-6cf-9e963d4b7012)
-![2](https://github.com/yashkhetade/ChatApp/assets/94381548/06244f37-4c58-4f7c-957a-48c5e69dd2b5)
-![3](https://github.com/yashkhetade/ChatApp/assets/94381548/df66793e-0699-4ad5-9463-054853276358)![4](https://github.com/yashkhetade/ChatApp/assets/94381548/40da4c38-205b-4b90-aae5-2cc7307c7ffa)
+
+![ChatApp1](https://github.com/yashkhetade/ChatApp/assets/94381548/a4fafeec-65af-4a62-8887-2044a49da6d1)
+
+![Chatapp2](https://github.com/yashkhetade/ChatApp/assets/94381548/3bfad37f-008f-4360-adf6-5d68f92db65e)
 
 
-![5](https://github.com/yashkhetade/ChatApp/assets/94381548/2bea76f1-01b0-402f-a3d3-8c0629328c80)
-![6](https://github.com/yashkhetade/ChatApp/assets/94381548/05850fa3-5205-46ca-81f3-256d54f0f347)
+![1](https://github.com/yashkhetade/ChatApp/assets/94381548/08ada9c3-f1ca-4419-90b7-104a2a3602df)
+
+![2](https://github.com/yashkhetade/ChatApp/assets/94381548/d938bb97-5959-4053-8399-999afc0d8b39)
+
+
+![3](https://github.com/yashkhetade/ChatApp/assets/94381548/eb44675b-6628-4a57-8dad-c502e428a669)
+![4](https://github.com/yashkhetade/ChatApp/assets/94381548/991b144d-4dde-44e9-ba20-e0bec0a6ca70)
+
+![5](https://github.com/yashkhetade/ChatApp/assets/94381548/6828f6af-c826-4c37-b4ed-d0636d623ff3)
+
+
+
+![6](https://github.com/yashkhetade/ChatApp/assets/94381548/4f2a1229-2c23-4930-a400-8d1bfc088846)
+
+
+
+
 
 
