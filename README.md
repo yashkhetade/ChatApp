@@ -21,13 +21,15 @@ Features-
 👤 User Profiles: Get to know your contacts better by viewing their profiles.
 
 
-![ChatApp1](https://github.com/yashkhetade/ChatApp/assets/94381548/fe86b959-16fc-4572-b1c7-7c4523df608c)
 
-![Chatapp2](https://github.com/yashkhetade/ChatApp/assets/94381548/adde194b-2e9c-44cd-9c97-080720606937)
-![1](https://github.com/yashkhetade/ChatApp/assets/94381548/ae3159cc-1780-4782-8b05-9bef25321808)
+![ChatApp1](https://github.com/yashkhetade/ChatApp/assets/94381548/1f3e360d-97f6-4c1f-b86a-ca9c5d2e3e95)
+![Chatapp2](https://github.com/yashkhetade/ChatApp/assets/94381548/b01e188f-734e-4af1-b![1](https://github.com/yashkhetade/ChatApp/assets/94381548/78dff49e-c04d-46e7-a58d-353442c07b06)
+6cf-9e963d4b7012)
+![2](https://github.com/yashkhetade/ChatApp/assets/94381548/06244f37-4c58-4f7c-957a-48c5e69dd2b5)
+![3](https://github.com/yashkhetade/ChatApp/assets/94381548/df66793e-0699-4ad5-9463-054853276358)![4](https://github.com/yashkhetade/ChatApp/assets/94381548/40da4c38-205b-4b90-aae5-2cc7307c7ffa)
 
-![2](https://github.com/yashkhetade/ChatApp/assets/94381548/579cad22-aa1b-4a7a-976e-7b1078e55c6d)
 
-![3](https://github.com/yashkhetade/ChatApp/assets/94381548/1c367faa-9ff4-4175-8bd1-d5d8b4a9fc5c)
-![4](https://github.com/yashkhetade/ChatApp/assets/94381548/c1d0e213-8dc3-42a0-93e6-a26b001d47ea)
-![6](https://github.com/yashkhetade/ChatApp/assets/94381548/5851e6c4-f0e6-4bd0-92be-4fe66a11c75a)
+![5](https://github.com/yashkhetade/ChatApp/assets/94381548/2bea76f1-01b0-402f-a3d3-8c0629328c80)
+![6](https://github.com/yashkhetade/ChatApp/assets/94381548/05850fa3-5205-46ca-81f3-256d54f0f347)
+
+
